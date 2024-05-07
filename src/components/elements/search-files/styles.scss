@@ -1,0 +1,18 @@
+.search-files-el {
+	.search-result-container {
+		box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	}
+}
+
+// .search-files-el:not(:focus-within) {
+// 	.search-result-container {
+// 		display: none;
+// 	}
+// }
+
+// .search-files-el:focus-within {
+// 	.search-result-container {
+// 		display: flex;
+// 		flex-direction: column;
+// 	}
+// }
